@@ -73,3 +73,8 @@ Example:
 0101 00 1110
 0101 00 1101
 <img width="508" height="465" alt="image" src="https://github.com/user-attachments/assets/62754b0c-e291-4972-ba56-dd98f0218063" />
+
+Challenge:
+Write the code in the language that will draw the content shown in the image below.
+
+<img width="515" height="477" alt="image" src="https://github.com/user-attachments/assets/72da68dc-b2ba-4169-8bc7-74ef32b88fee" />
