@@ -41,7 +41,7 @@ Word 3: Operation (4 bits)
 The operation is specified using two two-bit words:
 
 First two bits: Extension Mode
-Extension modes include exactly one neighboring cell in the specified direction.
+(Extension modes include exactly one neighboring cell in the specified direction.)
 
 00 - Center (no extension)
 
@@ -52,10 +52,9 @@ Extension modes include exactly one neighboring cell in the specified direction.
 11 - Diagonal (include down-right neighbor)
 
 Last two bits: Mirror Mode
-Mirror operations are performed with respect to the starting position specified in Word 1.
+(Mirror operations are performed with respect to the starting position specified in Word 1.
 The starting cell acts as the mirror anchor point.
-When a mirror mode is applied, the original (pre-mirror) shape is replaced by its mirrored version.
-The original shape is not retained.
+When a mirror mode is applied, the original shape is replaced by its mirrored version.)
 
 00 - No mirror
 
