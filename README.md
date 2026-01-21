@@ -63,3 +63,13 @@ When a mirror mode is applied, the original shape is replaced by its mirrored ve
 10 - Horizontal mirror
 
 11 - Central mirror (180° rotation)
+
+
+
+Example:
+0001 01 0000
+0101 11 1000
+1001 11 1000
+0101 00 1110
+0101 00 1101
+<img width="508" height="465" alt="image" src="https://github.com/user-attachments/assets/62754b0c-e291-4972-ba56-dd98f0218063" />
