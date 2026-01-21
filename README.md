@@ -67,6 +67,7 @@ When a mirror mode is applied, the original shape is replaced by its mirrored ve
 
 
 Example:
+
 0001 01 0000
 
 0101 11 1000
