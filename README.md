@@ -7,15 +7,23 @@ Word 1: Position (4 bits)
 The position is specified using two two-bit words:
 
 First two bits: Row
+
 00 - Row 1 (Top)
+
 01 - Row 2
+
 10 - Row 3
+
 11 - Row 4 (Bottom)
 
 Last two bits: Column
+
 00 - Column 1 (Left)
+
 01 - Column 2
+
 10 - Column 3
+
 11 - Column 4 (Right)
 
 Word 2: Shape (2 bits)
