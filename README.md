@@ -27,6 +27,7 @@ Last two bits: Column
 11 - Column 4 (Right)
 
 Word 2: Shape (2 bits)
+
 00 - Point/Line
 
 01 - Circle
