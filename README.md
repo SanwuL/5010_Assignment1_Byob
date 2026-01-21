@@ -27,6 +27,7 @@ Last two bits: Column
 11 - Column 4 (Right)
 
 Word 2: Shape (2 bits)
+(Each shape is drawn within the bounds of a single cell unless extended by an extension mode.)
 
 00 - Point/Line
 
@@ -40,6 +41,7 @@ Word 3: Operation (4 bits)
 The operation is specified using two two-bit words:
 
 First two bits: Extension Mode
+Extension modes include exactly one neighboring cell in the specified direction.
 
 00 - Center (no extension)
 
@@ -50,6 +52,10 @@ First two bits: Extension Mode
 11 - Diagonal (include down-right neighbor)
 
 Last two bits: Mirror Mode
+Mirror operations are performed with respect to the starting position specified in Word 1.
+The starting cell acts as the mirror anchor point.
+When a mirror mode is applied, the original (pre-mirror) shape is replaced by its mirrored version.
+The original shape is not retained.
 
 00 - No mirror
 
