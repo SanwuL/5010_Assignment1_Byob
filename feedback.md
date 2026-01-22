@@ -6,3 +6,18 @@ Additionally, I had some confusion regarding how triangles are drawn in the syst
 
 The answer to the challenge: 
 
+0000 01 0100
+
+0001 11 1000
+
+0101 11 1000
+
+1001 11 1000
+
+1001 11 0100
+
+1010 11 0100
+
+1011 11 1000
+
+0110 10 0100 ？(unsure)
