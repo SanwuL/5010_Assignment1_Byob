@@ -1,4 +1,4 @@
-Feedback_Cao Ruilin
+Feedback_Ruilin
 
 I noted that the system appears relatively complex and was not sure whether the assignment requirements called for this level of detail. I could not clearly recall whether the specification required commands to be this long, and questioned whether the four-bit limitation applied to the entire command or to each individual part of the command.
 
@@ -21,3 +21,8 @@ The answer to the challenge:
 1011 11 1000
 
 0110 10 0100 ？(unsure)
+
+
+Feedback_Fengkai 
+
+This binary language is getting a bit complex; I suggest providing more detailed explanations in the examples section.
