@@ -33,7 +33,7 @@ Word 2: Shape (2 bits)
 
 01 - Circle
 
-10 - Triangle
+10 - Triangle (Triangles point upward by default.)
 
 11 - Square
 
